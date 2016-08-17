@@ -1,6 +1,6 @@
 # Supported tags and respective `Dockerfile` links
 
--	[`1.0.3`, `latest` (*7.0/Dockerfile*)](https://github.com/gomoob/php-websocket-server-docker/blob/d6b446a77a77c8247e2206be8f966fdb24516862/1.0.3/Dockerfile)
+-	[`1.0.3`, `latest` (*7.0/Dockerfile*)](https://github.com/gomoob/php-websocket-server-docker/blob/master/1.0.3/Dockerfile)
 
 # What is php-websocket-server ?
 
