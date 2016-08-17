@@ -1,0 +1,5 @@
+applications:
+  -
+    key: application
+    secret: password
+    authorizeOpen: true
