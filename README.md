@@ -11,10 +11,10 @@ to provide a powerful tags management system to easily choose to which clients t
 # How to use this image.
 
 ```console
-$ docker run --name php-websocket-server -d -p 8080:80 gomoob/php-websocket-server:1.0.3
+$ docker run --name php-websocket-server -d -p 80:80 gomoob/php-websocket-server:1.0.3
 ```
 
-*WARNING* : Please note that under Windows the server will be accessible at `http://192.168.99.100:8080` in 
+*WARNING* : Please note that under Windows the server will be accessible at `http://192.168.99.100` in 
 this case.
 
 The default behavior of the server started in the container is to support the `Message` PHP message objects and the `ApplicationsAuthManager` authorization manager integrated into the `php-websocker-server` library. If you
